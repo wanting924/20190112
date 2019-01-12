@@ -2,88 +2,14 @@
     "name": "flare",
     "children": [
      {
-      "name": "台北市",
-      "children": [
-       {
-        "name": "信義區",
+        "name": "萬里區",
         "children": [
-         {"name": "長春里", "size": 3198},
-         {"name": "中坡里", "size": 3812}
-        ]
-       },
-       {
-        "name": "大安區",
-        "children": [
-         {"name": "民輝里", "size": 4178},
-         {"name": "古風里", "size": 2800}
-        ]
-       },
-       {
-        "name": "南港區",
-        "children": [
-         {"name": "鴻福里", "size": 310}
-        ]
-       },
-       {
-        "name": "中山區",
-        "children": [
-         {"name": "民安里", "size": 58500},
-         {"name": "中庄里", "size": 11150},
-         {"name": "行仁里", "size": 36846},
-         {"name": "中吉里", "size": 5600},
-         {"name": "龍洲里", "size": 103454},
-         {"name": "北安里", "size": 27595}
-        ]
-       },
-       {
-        "name": "中正區",
-        "children": [
-         {"name": "林興里", "size": 91241},
-         {"name": "新營里", "size": 52298},
-         {"name": "光復里", "size": 4446}
-        ]
-       },
-       {
-        "name": "萬華區",
-        "children": [
-         {"name": "福星里", "size": 2115},
-         {"name": "青山里", "size": 46010},
-         {"name": "仁德里", "size": 13250},
-         {"name": "新忠里", "size": 7623},
-         {"name": "新安里", "size": 43505}
-        ]
-       },
-       {
-        "name": "文山區",
-        "children": [
-         {"name": "萬有里", "size": 70830},
-         {"name": "興豐里", "size": 22827},
-         {"name": "明興里", "size": 912},
-         {"name": "萬興里", "size": 2894},
-         {"name": "萬美里", "size": 11466}
-        ]
-       },
-       {
-        "name": "信義區",
-        "children": [
-         {"name": "長春里", "size": 3938},
-         {"name": "中坡里", "size": 3812},
-         {"name": "HierarchicalCluster", "size": 6714},
-         {"name": "MergeEdge", "size": 743}
-        ]
-       },
-       {
-        "name": "內湖區",
-        "children": [
-         {"name": "大湖里", "size": 73839},
-         {"name": "安湖里", "size": 5200},
-         {"name": "康寧里", "size": 57297}
-        ]
-       },
-       {
-        "name": "北投區",
-        "children": [
-         {"name": "秀山里", "size": 237522}
+         {"name": "李黃玉根", "size": 21100},
+         {"name": "李昭成", "size": 46000}
+         {"name": "許淑惠", "size": 13250},
+         {"name": "邱文龍", "size": 76200}
+         {"name": "郭正中", "size": 43500}
+         {"name": "鐘駿", "size": 33000},
         ]
        }
       ]
